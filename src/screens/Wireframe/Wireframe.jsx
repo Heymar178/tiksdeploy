@@ -4,11 +4,13 @@ export const Wireframe = () => {
   return (
     <div className="bg-white flex flex-row justify-center w-full">
       <div className="bg-white w-[1440px] h-[1326px] relative">
-        <img
-          className="absolute w-[77px] h-[103px] top-6 left-[1308px]"
-          alt="Image"
-          src="/img/image-9.png"
-        />
+        <a href="https://linktr.ee/tiksdeploy" target="_blank" rel="noopener noreferrer">
+          <img
+            className="absolute w-[77px] h-[103px] top-6 left-[1308px]"
+            alt="Image"
+            src="/img/image-9.png"
+          />
+        </a>
 
         <img
           className="top-[272px] left-[33px] absolute w-[600px] h-0.5"
